@@ -62,8 +62,8 @@ for i in suburl:
 file.close()
 driver.close()
 REGION = 'us-east-1'
-ACCESS_KEY_ID = 'AKIAVQKJYQIFANJEGQGG'
-SECRET_ACCESS_KEY = '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'
+ACCESS_KEY_ID = 'xxxxxxxxxxxxxxxx'
+SECRET_ACCESS_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 PATH_IN_COMPUTER = '/saswati/log/idaho_license_details.csv'
 BUCKET_NAME = 'saswatiassignment'
 KEY = 'output/idaho_license_details.csv' # file path in S3
